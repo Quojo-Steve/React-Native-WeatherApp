@@ -13,8 +13,8 @@ This project is designed to display weather information. It allows you to search
 
 ## Installation
 
-npm i
-npm start
+- npm i
+- npm start
 
 ## Usage
 
